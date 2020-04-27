@@ -1,0 +1,45 @@
+body {
+  background-color: #fcf8e8;
+}
+
+img{
+  border-radius: 100%;
+}
+
+hr{
+  border-style : dotted none none;
+  border-color: lightgrey;
+  border-width: 6px;
+  width: 3%;
+}
+
+
+a{
+  background-color: lightblue
+}
+
+
+a:hover{
+  background-color: gold;
+}
+
+
+a:active{
+  color: red;
+}
+
+h1{
+color: #66BFBF;
+}
+
+
+h3{
+  color: #66BFBF;
+}
+
+.tickbox:hover{
+color: blue;
+}
+.tickbox:active{
+  color: red;
+}
